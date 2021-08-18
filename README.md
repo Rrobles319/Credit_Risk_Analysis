@@ -13,19 +13,39 @@ Using the credit card credit dataset from LendingClub, we will also access imbal
 
 RandomOverSampler Results:
   - Balanced Accuracy Score: .505
-  - Precision: 99
-  - Recall: 99
+  - Precision: 0.99
+  - Recall: 0.99
 ![Nrandomba1](https://user-images.githubusercontent.com/80009944/129771175-4d4bf0fd-8599-4130-a099-4320f2c3fc18.PNG)
 
 
+SMOTE Results:
+  - Balanced Accuracy Score: .654
+  - Precision: 0.99
+  - Recall: 0.68
 ![SMOTEBA2](https://user-images.githubusercontent.com/80009944/129771195-d2abcf6f-143d-44d6-bed2-210590b61619.PNG)
 
+UnderSampling Results:
+  - Balanced Accuracy Score: .654
+  - Precision: 0.99
+  - Recall: 0.40
 ![UnderBA3](https://user-images.githubusercontent.com/80009944/129771209-cf1551da-35a6-4a9e-96b8-e65a0968ce2d.PNG)
 
+SMOTEEN Results:
+  - Balanced Accuracy Score: .54
+  - Precision: 99
+  - Recall: 57
 ![Smoteenba4](https://user-images.githubusercontent.com/80009944/129771220-cc36278c-0a6e-4681-abb7-37161e860437.PNG)
 
+BalancedRandomForestResults:
+  - Balanced Accuracy Score: .645
+  - Precision: 99
+  - Recall: 57
 ![ENSba5](https://user-images.githubusercontent.com/80009944/129771234-8accc15f-d6f5-4ee6-9cfb-29e9b7b7e633.PNG)
 
+Ensemble Results:
+  - Balanced Accuracy Score: .645
+  - Precision: 99
+  - Recall: 57
 ![BA6](https://user-images.githubusercontent.com/80009944/129771478-6c684d0a-c4ec-4b9a-978e-3a23ee4b91b2.PNG)
 
 ## Summary
