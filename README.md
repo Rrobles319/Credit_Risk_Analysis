@@ -49,7 +49,7 @@ Ensemble Results:
 ![BA6](https://user-images.githubusercontent.com/80009944/129771478-6c684d0a-c4ec-4b9a-978e-3a23ee4b91b2.PNG)
 
 ## Summary
-The results of the various machine learning models reveal the pivital relationship between precision and recall. On one hand, high sensitivy means more at high accounts are detected with possible more false postives. High precision indicates that, of the identified accounts, most are in fact high risk, leaving potential for many missed high risk accounts. When focusing specifically on the identfication of high risk accounts, both precision and recall are significantly inconclusive. 
+The results of the various machine learning models reveal the pivital relationship between precision and recall. On one hand, high sensitivy means more at high accounts are detected with possible more false postives. High precision indicates that, of the identified accounts, most are in fact high risk, leaving potential for many missed high risk accounts. When focusing specifically on the identfication of high risk accounts, both precision and recall are significantly inconclusive. Thus, none of these 6 models are effective in consistently minimizing the volume of high risk accounts.
 
 
 
