@@ -31,24 +31,25 @@ UnderSampling Results:
 ![UnderBA3](https://user-images.githubusercontent.com/80009944/129771209-cf1551da-35a6-4a9e-96b8-e65a0968ce2d.PNG)
 
 SMOTEEN Results:
-  - Balanced Accuracy Score: .54
-  - Precision: 99
-  - Recall: 57
+  - Balanced Accuracy Score: .544
+  - Precision: 0.99
+  - Recall: 0.57
 ![Smoteenba4](https://user-images.githubusercontent.com/80009944/129771220-cc36278c-0a6e-4681-abb7-37161e860437.PNG)
 
 BalancedRandomForestResults:
   - Balanced Accuracy Score: .645
-  - Precision: 99
-  - Recall: 57
+  - Precision: 0.99
+  - Recall: 0.57
 ![ENSba5](https://user-images.githubusercontent.com/80009944/129771234-8accc15f-d6f5-4ee6-9cfb-29e9b7b7e633.PNG)
 
 Ensemble Results:
   - Balanced Accuracy Score: .645
-  - Precision: 99
-  - Recall: 57
+  - Precision: 0.99
+  - Recall: 0.57
 ![BA6](https://user-images.githubusercontent.com/80009944/129771478-6c684d0a-c4ec-4b9a-978e-3a23ee4b91b2.PNG)
 
 ## Summary
+The results of the various machine learning models reveal the pivital relationship between precision and recall. On one hand, high sensitivy means more at high accounts are detected with possible more false postives. High precision indicates that, of the identified accounts, most are in fact high risk, leaving potential for many missed high risk accounts. When focusing specifically on the identfication of high risk accounts, both precision and recall are significantly inconclusive. 
 
 
 
